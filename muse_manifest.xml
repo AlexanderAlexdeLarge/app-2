@@ -1,0 +1,438 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rutas_ecuador_b2.com" resolutions="1x" timestamp="1512769893394">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="noroccidente.css" crc="520116681" ref="noroccidente"/>
+    <file name="hospedajequito.css" crc="4027121976" ref="hospedajequito"/>
+    <file name="comidaquito.css" crc="184465635" ref="comidaquito"/>
+    <file name="regiones.css" crc="229337616" ref="regiones"/>
+    <file name="lugares.css" crc="338573065" ref="lugares"/>
+    <file name="sierra.css" crc="496831740" ref="sierra"/>
+    <file name="quito_p_arqueolog.css" crc="3779921163" ref="quito_p_arqueolog"/>
+    <file name="quito_hotel_aa.css" crc="3877364686" ref="quito_hotel_aa"/>
+    <file name="rutaspichincha.css" crc="263513247" ref="rutaspichincha"/>
+    <file name="index.css" crc="4255127083" ref="index"/>
+    <file name="g_hostalesquito.css" crc="4092116373" ref="g_hostalesquito"/>
+    <file name="quito_hotel_aaa.css" crc="398610170" ref="quito_hotel_aaa"/>
+    <file name="quito_iglesias.css" crc="4180502673" ref="quito_iglesias"/>
+    <file name="g_hotelesquito.css" crc="206101747" ref="g_hotelesquito"/>
+    <file name="culturapichincha.css" crc="3889917617" ref="culturapichincha"/>
+  </folder>
+  <folder name="assets">
+    <file name="plaja-soleada.jpg" crc="449024264" seo="true" mt="1506625762000"/>
+    <file name="oriente.jpg" crc="301474115" seo="true" mt="1506625805000"/>
+    <file name="insular.jpg" crc="86573102" seo="true" mt="1506625815000"/>
+    <file name="pichincha.jpg" crc="4278509425" seo="true" mt="1506642787000"/>
+    <file name="chimborazo.jpg" crc="4283198137" seo="true" mt="1506647173000"/>
+    <file name="tungurahua.jpg" crc="290787472" seo="true" mt="1506642808000"/>
+    <file name="cotopa14047227.jpg" crc="3943383794" seo="true" mt="1506648088000"/>
+    <file name="azuay.jpg" crc="4061158016" seo="true" mt="1506648312000"/>
+    <file name="imbabura-ecuador.jpg" crc="76544499" seo="true" mt="1506646947000"/>
+    <file name="carchi.jpg" crc="429000212" seo="true" mt="1506648233000"/>
+    <file name="bolivar.jpg" crc="3909670978" seo="true" mt="1506648836000"/>
+    <file name="loja-2.jpg" crc="265823046" seo="true" mt="1506648969000"/>
+    <file name="frutas.jpg" crc="259311860" seo="true" mt="1507997621000"/>
+    <file name="jungla2.jpg" crc="3784804505" seo="true" mt="1507999703000"/>
+    <file name="fiesta.jpg" crc="52188180" seo="true" mt="1507999153000"/>
+    <file name="canyoning-bucay-ecuador1.jpg" crc="4020956520" seo="true" mt="1507999499000"/>
+    <file name="cropped-foch-2-b.jpg" crc="237490183" seo="true" mt="1507999375000"/>
+    <file name="gastronomía-ecuatoriana.jpg" crc="3991551300" seo="true" mt="1507999295000"/>
+    <file name="199468_107_z.jpg" crc="410470879" seo="true" mt="1508518660000"/>
+    <file name="suite-mashpi.jpg" crc="88611242" seo="true" mt="1504740746000"/>
+    <file name="500px-virgen_de_quito-2.png" crc="3874518513" seo="true" mt="1504742420000"/>
+    <file name="san-francisco-.png" crc="4244587846" seo="true" mt="1506094104000"/>
+    <file name="25r.jpg" crc="165490654" seo="true" mt="1512663784000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>regiones_m:phone>sierra_m:phone>rutaspichincha_m:phone>hospedajequito_m:phone>lugares:phone>comidaquito:phone>noroccidente:phone>culturapichincha_m:phone>g_hostalesquito_m:phone>g_hotelesquito_m:phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>index:tablet>regiones_t:tablet>sierra_t:tablet>rutaspichincha_t:tablet>hospedajequito_t:tablet>lugares:tablet>comidaquito:tablet>noroccidente:tablet>culturapichincha_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:tablet>g_hostalesquito_t:tablet>g_hotelesquito_t:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:index:regiones:sierra:rutaspichincha:noroccidente:hospedajequito:comidaquito:lugares:g_hostalesquito:g_hotelesquito:quito_p_arqueolog:quito_iglesias:culturapichincha:quito_hotel_aaa:quito_hotel_aa"/>
+    <file name="museutils.js" crc="17924269" ref="phone>index:phone>regiones_m:phone>sierra_m:phone>rutaspichincha_m:phone>hospedajequito_m:phone>lugares:phone>comidaquito:phone>noroccidente:phone>culturapichincha_m:phone>g_hostalesquito_m:phone>g_hotelesquito_m:phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>index:tablet>regiones_t:tablet>sierra_t:tablet>rutaspichincha_t:tablet>hospedajequito_t:tablet>lugares:tablet>comidaquito:tablet>noroccidente:tablet>culturapichincha_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:tablet>g_hostalesquito_t:tablet>g_hotelesquito_t:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:index:regiones:sierra:rutaspichincha:noroccidente:hospedajequito:comidaquito:lugares:g_hostalesquito:g_hotelesquito:quito_p_arqueolog:quito_iglesias:culturapichincha:quito_hotel_aaa:quito_hotel_aa"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>regiones_m:phone>sierra_m:phone>rutaspichincha_m:phone>hospedajequito_m:phone>lugares:phone>comidaquito:phone>noroccidente:phone>culturapichincha_m:phone>g_hostalesquito_m:phone>g_hotelesquito_m:phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>index:tablet>regiones_t:tablet>sierra_t:tablet>rutaspichincha_t:tablet>hospedajequito_t:tablet>lugares:tablet>comidaquito:tablet>noroccidente:tablet>culturapichincha_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:tablet>g_hostalesquito_t:tablet>g_hotelesquito_t:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:index:regiones:sierra:rutaspichincha:noroccidente:hospedajequito:comidaquito:lugares:g_hostalesquito:g_hotelesquito:quito_p_arqueolog:quito_iglesias:culturapichincha:quito_hotel_aaa:quito_hotel_aa"/>
+    <file name="museconfig.js" crc="144853533" ref="phone>index:phone>regiones_m:phone>sierra_m:phone>rutaspichincha_m:phone>hospedajequito_m:phone>lugares:phone>comidaquito:phone>noroccidente:phone>culturapichincha_m:phone>g_hostalesquito_m:phone>g_hotelesquito_m:phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>index:tablet>regiones_t:tablet>sierra_t:tablet>rutaspichincha_t:tablet>hospedajequito_t:tablet>lugares:tablet>comidaquito:tablet>noroccidente:tablet>culturapichincha_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:tablet>g_hostalesquito_t:tablet>g_hotelesquito_t:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:index:regiones:sierra:rutaspichincha:noroccidente:hospedajequito:comidaquito:lugares:g_hostalesquito:g_hotelesquito:quito_p_arqueolog:quito_iglesias:culturapichincha:quito_hotel_aaa:quito_hotel_aa"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="phone>index:phone>regiones_m:phone>sierra_m:phone>rutaspichincha_m:phone>hospedajequito_m:phone>lugares:phone>comidaquito:phone>noroccidente:phone>culturapichincha_m:phone>g_hostalesquito_m:phone>g_hotelesquito_m:phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>index:tablet>regiones_t:tablet>sierra_t:tablet>rutaspichincha_t:tablet>hospedajequito_t:tablet>lugares:tablet>comidaquito:tablet>noroccidente:tablet>culturapichincha_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:tablet>g_hostalesquito_t:tablet>g_hotelesquito_t:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:index:regiones:sierra:rutaspichincha:noroccidente:hospedajequito:comidaquito:lugares:g_hostalesquito:g_hotelesquito:quito_p_arqueolog:quito_iglesias:culturapichincha:quito_hotel_aaa:quito_hotel_aa"/>
+    <file name="require.js" crc="3861931657" ref="phone>index:phone>regiones_m:phone>sierra_m:phone>rutaspichincha_m:phone>hospedajequito_m:phone>lugares:phone>comidaquito:phone>noroccidente:phone>culturapichincha_m:phone>g_hostalesquito_m:phone>g_hotelesquito_m:phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>index:tablet>regiones_t:tablet>sierra_t:tablet>rutaspichincha_t:tablet>hospedajequito_t:tablet>lugares:tablet>comidaquito:tablet>noroccidente:tablet>culturapichincha_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:tablet>g_hostalesquito_t:tablet>g_hotelesquito_t:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:index:regiones:sierra:rutaspichincha:noroccidente:hospedajequito:comidaquito:lugares:g_hostalesquito:g_hotelesquito:quito_p_arqueolog:quito_iglesias:culturapichincha:quito_hotel_aaa:quito_hotel_aa"/>
+    <file name="webpro.js" crc="416662029" ref="phone>hospedajequito_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>hospedajequito_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:hospedajequito:quito_p_arqueolog:quito_iglesias"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="phone>hospedajequito_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>hospedajequito_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:hospedajequito:quito_p_arqueolog:quito_iglesias"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:quito_p_arqueolog:quito_iglesias:quito_hotel_aaa:quito_hotel_aa"/>
+  </folder>
+  <folder name="images">
+    <file name="rutas-ecuador-logotipo2.png" crc="3838023630" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabezera2.png" crc="3896881538" seo="true" ref="phone>regiones_m:phone>sierra_m:phone>rutaspichincha_m:phone>hospedajequito_m:phone>culturapichincha_m:phone>g_hostalesquito_m:phone>g_hotelesquito_m:phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>regiones_t:tablet>sierra_t:tablet>rutaspichincha_t:tablet>hospedajequito_t:tablet>culturapichincha_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:tablet>g_hostalesquito_t:tablet>g_hotelesquito_t:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:regiones:sierra:rutaspichincha:hospedajequito:lugares:g_hostalesquito:g_hotelesquito:quito_p_arqueolog:quito_iglesias:culturapichincha:quito_hotel_aaa:quito_hotel_aa">
+      <caption webpage="sierra_t" alt=""/>
+      <caption webpage="quito_p_arqueolog" alt=""/>
+      <caption webpage="culturapichincha" alt=""/>
+      <caption webpage="rutaspichincha_t" alt=""/>
+      <caption webpage="regiones_m" alt=""/>
+      <caption webpage="quito_hotel_aa_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+      <caption webpage="culturapichincha_t" alt=""/>
+      <caption webpage="quito_hotel_aaa" alt=""/>
+      <caption webpage="g_hostalesquito_t" alt=""/>
+      <caption webpage="quito_hotel_aa" alt=""/>
+      <caption webpage="g_hostalesquito" alt=""/>
+      <caption webpage="sierra_m" alt=""/>
+      <caption webpage="quito_hotel_aaa_t" alt=""/>
+      <caption webpage="quito_hotel_aa_m" alt=""/>
+      <caption webpage="quito_iglesias_m" alt=""/>
+      <caption webpage="quito_iglesias_t" alt=""/>
+      <caption webpage="quito_iglesias" alt=""/>
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+      <caption webpage="g_hostalesquito_m" alt=""/>
+      <caption webpage="g_hotelesquito_t" alt=""/>
+      <caption webpage="rutaspichincha_m" alt=""/>
+      <caption webpage="lugares" alt=""/>
+      <caption webpage="culturapichincha_m" alt=""/>
+      <caption webpage="regiones_t" alt=""/>
+      <caption webpage="g_hotelesquito" alt=""/>
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="g_hotelesquito_m" alt=""/>
+      <caption webpage="regiones" alt=""/>
+      <caption webpage="quito_p_arqueolog_m" alt=""/>
+      <caption webpage="quito_p_arqueolog_t" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="rutaspichincha" alt=""/>
+      <caption webpage="sierra" alt=""/>
+    </file>
+    <file name="rutas-ecuador-logotipo5.png" crc="4018065340" seo="true" ref="phone>regiones_m:phone>rutaspichincha_m:phone>hospedajequito_m:phone>culturapichincha_m:phone>g_hostalesquito_m:phone>g_hotelesquito_m:phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>regiones_t:tablet>sierra_t:tablet>rutaspichincha_t:tablet>hospedajequito_t:tablet>culturapichincha_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:tablet>g_hostalesquito_t:tablet>g_hotelesquito_t:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:regiones:rutaspichincha:noroccidente:hospedajequito:comidaquito:lugares:g_hostalesquito:g_hotelesquito:quito_p_arqueolog:quito_iglesias:culturapichincha:quito_hotel_aaa:quito_hotel_aa">
+      <caption webpage="sierra_t" alt=""/>
+      <caption webpage="quito_p_arqueolog" alt=""/>
+      <caption webpage="culturapichincha" alt=""/>
+      <caption webpage="rutaspichincha_t" alt=""/>
+      <caption webpage="regiones_m" alt=""/>
+      <caption webpage="quito_hotel_aa_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+      <caption webpage="culturapichincha_t" alt=""/>
+      <caption webpage="quito_hotel_aaa" alt=""/>
+      <caption webpage="g_hostalesquito_t" alt=""/>
+      <caption webpage="quito_hotel_aa" alt=""/>
+      <caption webpage="g_hostalesquito" alt=""/>
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="quito_hotel_aaa_t" alt=""/>
+      <caption webpage="g_hostalesquito_m" alt=""/>
+      <caption webpage="quito_iglesias_m" alt=""/>
+      <caption webpage="quito_iglesias_t" alt=""/>
+      <caption webpage="noroccidente" alt=""/>
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+      <caption webpage="quito_hotel_aa_m" alt=""/>
+      <caption webpage="quito_iglesias" alt=""/>
+      <caption webpage="comidaquito" alt=""/>
+      <caption webpage="g_hotelesquito_t" alt=""/>
+      <caption webpage="lugares" alt=""/>
+      <caption webpage="culturapichincha_m" alt=""/>
+      <caption webpage="regiones_t" alt=""/>
+      <caption webpage="g_hotelesquito" alt=""/>
+      <caption webpage="rutaspichincha_m" alt=""/>
+      <caption webpage="g_hotelesquito_m" alt=""/>
+      <caption webpage="regiones" alt=""/>
+      <caption webpage="quito_p_arqueolog_m" alt=""/>
+      <caption webpage="quito_p_arqueolog_t" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="rutaspichincha" alt=""/>
+    </file>
+    <file name="pie_04.png" crc="4090959246" seo="true" ref="phone>regiones_m:phone>sierra_m:phone>rutaspichincha_m:phone>hospedajequito_m:phone>culturapichincha_m:phone>g_hostalesquito_m:phone>g_hotelesquito_m:phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:phone>quito_p_arqueolog_m:phone>quito_iglesias_m:tablet>regiones_t:tablet>sierra_t:tablet>rutaspichincha_t:tablet>hospedajequito_t:tablet>culturapichincha_t:tablet>quito_p_arqueolog_t:tablet>quito_iglesias_t:tablet>g_hostalesquito_t:tablet>g_hotelesquito_t:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:regiones:sierra:rutaspichincha:noroccidente:hospedajequito:comidaquito:lugares:g_hostalesquito:g_hotelesquito:quito_p_arqueolog:quito_iglesias:culturapichincha:quito_hotel_aaa:quito_hotel_aa">
+      <caption webpage="sierra_t" alt=""/>
+      <caption webpage="quito_p_arqueolog" alt=""/>
+      <caption webpage="culturapichincha" alt=""/>
+      <caption webpage="rutaspichincha_t" alt=""/>
+      <caption webpage="regiones_m" alt=""/>
+      <caption webpage="quito_hotel_aa_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+      <caption webpage="culturapichincha_t" alt=""/>
+      <caption webpage="quito_hotel_aaa" alt=""/>
+      <caption webpage="g_hostalesquito_t" alt=""/>
+      <caption webpage="quito_hotel_aa" alt=""/>
+      <caption webpage="g_hostalesquito" alt=""/>
+      <caption webpage="sierra_m" alt=""/>
+      <caption webpage="quito_hotel_aaa_t" alt=""/>
+      <caption webpage="quito_hotel_aa_m" alt=""/>
+      <caption webpage="quito_iglesias_m" alt=""/>
+      <caption webpage="quito_iglesias_t" alt=""/>
+      <caption webpage="noroccidente" alt=""/>
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+      <caption webpage="g_hostalesquito_m" alt=""/>
+      <caption webpage="quito_iglesias" alt=""/>
+      <caption webpage="comidaquito" alt=""/>
+      <caption webpage="g_hotelesquito_t" alt=""/>
+      <caption webpage="rutaspichincha_m" alt=""/>
+      <caption webpage="lugares" alt=""/>
+      <caption webpage="culturapichincha_m" alt=""/>
+      <caption webpage="regiones_t" alt=""/>
+      <caption webpage="g_hotelesquito" alt=""/>
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="g_hotelesquito_m" alt=""/>
+      <caption webpage="regiones" alt=""/>
+      <caption webpage="quito_p_arqueolog_m" alt=""/>
+      <caption webpage="quito_p_arqueolog_t" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="rutaspichincha" alt=""/>
+      <caption webpage="sierra" alt=""/>
+    </file>
+    <file name="rutas-ecuador-logotipo5-crop-u21738.png" crc="3788462184" seo="true" ref="phone>sierra_m">
+      <caption webpage="sierra_m" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito"/>
+    <file name="1.jpg" crc="113781591" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito">
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3776569572" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito">
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+    </file>
+    <file name="7.jpg" crc="285138252" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito">
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+    </file>
+    <file name="12.jpg" crc="304648100" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito">
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+    </file>
+    <file name="13.jpg" crc="3983682826" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito">
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+    </file>
+    <file name="5.jpg" crc="118726671" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito">
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+    </file>
+    <file name="9.jpg" crc="430446352" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito">
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+    </file>
+    <file name="32.jpg" crc="479437995" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito">
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="hospedajequito" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4104231254" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito:lugares">
+      <caption webpage="hospedajequito" alt=""/>
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="lugares" alt=""/>
+    </file>
+    <file name="92.jpg" crc="4199897005" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito:lugares">
+      <caption webpage="hospedajequito" alt=""/>
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="lugares" alt=""/>
+    </file>
+    <file name="52.jpg" crc="534397131" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito:lugares">
+      <caption webpage="hospedajequito" alt=""/>
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="lugares" alt=""/>
+    </file>
+    <file name="33.jpg" crc="3810244390" seo="true" ref="phone>hospedajequito_m:tablet>hospedajequito_t:hospedajequito:lugares">
+      <caption webpage="hospedajequito" alt=""/>
+      <caption webpage="hospedajequito_m" alt=""/>
+      <caption webpage="hospedajequito_t" alt=""/>
+      <caption webpage="lugares" alt=""/>
+    </file>
+    <file name="14322546_1117342745023392_1781904803091509570_n.jpg" crc="4124795961" ref="phone>quito_hotel_aaa_m:tablet>quito_hotel_aaa_t:quito_hotel_aaa">
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+    </file>
+    <file name="mashpi-logo-1.png" crc="140870295" seo="true" ref="phone>quito_hotel_aaa_m:phone>quito_hotel_aa_m:tablet>quito_hotel_aaa_t:tablet>quito_hotel_aa_t:quito_hotel_aaa:quito_hotel_aa">
+      <caption webpage="quito_hotel_aa_t" alt=""/>
+      <caption webpage="quito_hotel_aa" alt=""/>
+      <caption webpage="quito_hotel_aaa" alt=""/>
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+      <caption webpage="quito_hotel_aaa_t" alt=""/>
+      <caption webpage="quito_hotel_aa_m" alt=""/>
+    </file>
+    <file name="_95691060_mashpi-lodge_147749286479.jpg" crc="448306825" ref="phone>quito_hotel_aaa_m:tablet>quito_hotel_aaa_t:quito_hotel_aaa">
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+      <caption webpage="quito_hotel_aaa_t" alt=""/>
+      <caption webpage="quito_hotel_aaa" alt=""/>
+    </file>
+    <file name="ad11.jpg" crc="4097837582" ref="phone>quito_hotel_aaa_m:tablet>quito_hotel_aaa_t:quito_hotel_aaa">
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+    </file>
+    <file name="images.jpg" crc="323679721" seo="true" ref="phone>quito_hotel_aaa_m:tablet>quito_hotel_aaa_t:quito_hotel_aaa">
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+      <caption webpage="quito_hotel_aaa_t" alt=""/>
+      <caption webpage="quito_hotel_aaa" alt=""/>
+    </file>
+    <file name="diaklnluqaimmc9.jpg" crc="256653840" seo="true" ref="phone>quito_hotel_aaa_m:tablet>quito_hotel_aaa_t:quito_hotel_aaa">
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+      <caption webpage="quito_hotel_aaa_t" alt=""/>
+      <caption webpage="quito_hotel_aaa" alt=""/>
+    </file>
+    <file name="mashpi-pinterest.png" crc="117263254" seo="true" ref="phone>quito_hotel_aaa_m:tablet>quito_hotel_aaa_t:quito_hotel_aaa">
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+      <caption webpage="quito_hotel_aaa_t" alt=""/>
+      <caption webpage="quito_hotel_aaa" alt=""/>
+    </file>
+    <file name="chl-mashpi1.jpg" crc="3957059339" seo="true" ref="phone>quito_hotel_aaa_m:tablet>quito_hotel_aaa_t:quito_hotel_aaa">
+      <caption webpage="quito_hotel_aaa_m" alt=""/>
+      <caption webpage="quito_hotel_aaa_t" alt=""/>
+      <caption webpage="quito_hotel_aaa" alt=""/>
+    </file>
+    <file name="mashpi-lodge-experience-2.jpg" crc="4040932148" ref="phone>quito_hotel_aa_m:tablet>quito_hotel_aa_t:quito_hotel_aa">
+      <caption webpage="quito_hotel_aa_m" alt=""/>
+    </file>
+    <file name="mashpi-ecuador-lodge-yaku-suite.jpg" crc="3969069166" ref="phone>quito_hotel_aa_m:tablet>quito_hotel_aa_t:quito_hotel_aa">
+      <caption webpage="quito_hotel_aa_t" alt=""/>
+      <caption webpage="quito_hotel_aa" alt=""/>
+      <caption webpage="quito_hotel_aa_m" alt=""/>
+    </file>
+    <file name="rumipamba.jpg" crc="3808833988" ref="phone>quito_p_arqueolog_m:tablet>quito_p_arqueolog_t:quito_p_arqueolog">
+      <caption webpage="quito_p_arqueolog_m" alt=""/>
+      <caption webpage="quito_p_arqueolog" alt=""/>
+      <caption webpage="quito_p_arqueolog_t" alt=""/>
+    </file>
+    <file name="29r cochasquí 1.jpg" crc="4174044064" ref="phone>quito_p_arqueolog_m:tablet>quito_p_arqueolog_t:quito_p_arqueolog">
+      <caption webpage="quito_p_arqueolog_m" alt=""/>
+    </file>
+    <file name="rumicucho.jpg" crc="213676361" ref="phone>quito_p_arqueolog_m:tablet>quito_p_arqueolog_t:quito_p_arqueolog">
+      <caption webpage="quito_p_arqueolog_m" alt=""/>
+      <caption webpage="quito_p_arqueolog" alt=""/>
+      <caption webpage="quito_p_arqueolog_t" alt=""/>
+    </file>
+    <file name="tulipe.jpg" crc="497996511" ref="phone>quito_p_arqueolog_m:tablet>quito_p_arqueolog_t:quito_p_arqueolog">
+      <caption webpage="quito_p_arqueolog_m" alt=""/>
+      <caption webpage="quito_p_arqueolog" alt=""/>
+      <caption webpage="quito_p_arqueolog_t" alt=""/>
+    </file>
+    <file name="la compañía.jpg" crc="173248514" ref="phone>quito_iglesias_m:tablet>quito_iglesias_t:quito_iglesias">
+      <caption webpage="quito_iglesias_m" alt=""/>
+    </file>
+    <file name="guapulo.jpg" crc="3970747964" ref="phone>quito_iglesias_m:tablet>quito_iglesias_t:quito_iglesias">
+      <caption webpage="quito_iglesias_m" alt=""/>
+      <caption webpage="quito_iglesias" alt=""/>
+      <caption webpage="quito_iglesias_t" alt=""/>
+    </file>
+    <file name="san francisco .jpg" crc="4165588535" ref="phone>quito_iglesias_m:tablet>quito_iglesias_t:quito_iglesias">
+      <caption webpage="quito_iglesias_m" alt=""/>
+      <caption webpage="quito_iglesias" alt=""/>
+      <caption webpage="quito_iglesias_t" alt=""/>
+    </file>
+    <file name="basilica.jpg" crc="367661816" ref="phone>quito_iglesias_m:tablet>quito_iglesias_t:quito_iglesias">
+      <caption webpage="quito_iglesias_m" alt=""/>
+      <caption webpage="quito_iglesias" alt=""/>
+      <caption webpage="quito_iglesias_t" alt=""/>
+    </file>
+    <file name="santo domingo.jpg" crc="3880866834" ref="phone>quito_iglesias_m:tablet>quito_iglesias_t:quito_iglesias">
+      <caption webpage="quito_iglesias_m" alt=""/>
+      <caption webpage="quito_iglesias" alt=""/>
+      <caption webpage="quito_iglesias_t" alt=""/>
+    </file>
+    <file name="catedral-metropolitana-de-quito.jpg" crc="141791992" ref="phone>quito_iglesias_m:tablet>quito_iglesias_t:quito_iglesias">
+      <caption webpage="quito_iglesias_m" alt=""/>
+      <caption webpage="quito_iglesias" alt=""/>
+      <caption webpage="quito_iglesias_t" alt=""/>
+    </file>
+    <file name="rutas-ecuador-logotipo5-crop-u22999.png" crc="63961862" seo="true" ref="sierra">
+      <caption webpage="sierra" alt=""/>
+    </file>
+    <file name="background-2333037_960_720.jpg" crc="516756667" seo="true" ref="noroccidente:comidaquito">
+      <caption webpage="noroccidente" alt=""/>
+      <caption webpage="comidaquito" alt=""/>
+    </file>
+    <file name="77506782d130c09bdd5bf91562a7f3d4--iphone-wallpaper-vintage-lace-black-pattern-wallpaper.jpg" crc="65307374" seo="true" ref="noroccidente:comidaquito">
+      <caption webpage="noroccidente" alt=""/>
+      <caption webpage="comidaquito" alt=""/>
+    </file>
+    <file name="base2.png" crc="178507886" seo="true" ref="noroccidente:comidaquito">
+      <caption webpage="noroccidente" alt=""/>
+      <caption webpage="comidaquito" alt=""/>
+    </file>
+    <file name="8.jpg" crc="444326695" seo="true" ref="lugares">
+      <caption webpage="lugares" alt=""/>
+    </file>
+    <file name="10.jpg" crc="527063797" seo="true" ref="lugares">
+      <caption webpage="lugares" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="sierra_t.css" crc="317477222" ref="tablet>sierra_t"/>
+      <file name="regiones_t.css" crc="3967735415" ref="tablet>regiones_t"/>
+      <file name="hospedajequito_t.css" crc="164364161" ref="tablet>hospedajequito_t"/>
+      <file name="quito_hotel_aaa_t.css" crc="491992129" ref="tablet>quito_hotel_aaa_t"/>
+      <file name="comidaquito.css" crc="495528210" ref="tablet>comidaquito"/>
+      <file name="index.css" crc="3781007715" ref="tablet>index"/>
+      <file name="noroccidente.css" crc="495528210" ref="tablet>noroccidente"/>
+      <file name="culturapichincha_t.css" crc="3943888917" ref="tablet>culturapichincha_t"/>
+      <file name="quito_iglesias_t.css" crc="4231361952" ref="tablet>quito_iglesias_t"/>
+      <file name="g_hostalesquito_t.css" crc="4189654405" ref="tablet>g_hostalesquito_t"/>
+      <file name="rutaspichincha_t.css" crc="4039353785" ref="tablet>rutaspichincha_t"/>
+      <file name="lugares.css" crc="114960971" ref="tablet>lugares"/>
+      <file name="quito_hotel_aa_t.css" crc="4125165131" ref="tablet>quito_hotel_aa_t"/>
+      <file name="quito_p_arqueolog_t.css" crc="309926171" ref="tablet>quito_p_arqueolog_t"/>
+      <file name="g_hotelesquito_t.css" crc="3888279114" ref="tablet>g_hotelesquito_t"/>
+    </folder>
+    <file name="index.html" crc="355052270" seo="true" mt="1512766988745" redirect="true"/>
+    <file name="regiones_t.html" crc="4068489261" seo="true" mt="1512766988761" redirect="true"/>
+    <file name="sierra_t.html" crc="376795183" seo="true" mt="1512766988761" redirect="true"/>
+    <file name="rutaspichincha_t.html" crc="33844118" seo="true" mt="1512766988761" redirect="true"/>
+    <file name="hospedajequito_t.html" crc="4266581055" seo="true" mt="1512766988761" redirect="true"/>
+    <file name="lugares.html" crc="194334700" seo="true" mt="1512766988761" redirect="false"/>
+    <file name="comidaquito.html" crc="196045647" seo="true" mt="1512766988761" redirect="false"/>
+    <file name="noroccidente.html" crc="4037543208" seo="true" mt="1512766988761" redirect="false"/>
+    <file name="culturapichincha_t.html" crc="3878883361" seo="true" mt="1512766988761" redirect="true"/>
+    <file name="quito_p_arqueolog_t.html" crc="4060833700" seo="true" mt="1512767319455" redirect="true"/>
+    <file name="quito_iglesias_t.html" crc="179685011" seo="true" mt="1512767319801" redirect="true"/>
+    <file name="g_hostalesquito_t.html" crc="4021060101" seo="true" mt="1512766988761" redirect="true"/>
+    <file name="g_hotelesquito_t.html" crc="4177415263" seo="true" mt="1512766988761" redirect="true"/>
+    <file name="quito_hotel_aaa_t.html" crc="266833296" seo="true" mt="1512767319845" redirect="true"/>
+    <file name="quito_hotel_aa_t.html" crc="3970540898" seo="true" mt="1512768173645" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="quito_iglesias_m.css" crc="303251105" ref="phone>quito_iglesias_m"/>
+      <file name="quito_hotel_aa_m.css" crc="54990091" ref="phone>quito_hotel_aa_m"/>
+      <file name="g_hotelesquito_m.css" crc="3885876381" ref="phone>g_hotelesquito_m"/>
+      <file name="rutaspichincha_m.css" crc="365547682" ref="phone>rutaspichincha_m"/>
+      <file name="culturapichincha_m.css" crc="3869488118" ref="phone>culturapichincha_m"/>
+      <file name="hospedajequito_m.css" crc="185519878" ref="phone>hospedajequito_m"/>
+      <file name="quito_hotel_aaa_m.css" crc="318005330" ref="phone>quito_hotel_aaa_m"/>
+      <file name="regiones_m.css" crc="266320547" ref="phone>regiones_m"/>
+      <file name="sierra_m.css" crc="3806875398" ref="phone>sierra_m"/>
+      <file name="index.css" crc="3759481671" ref="phone>index"/>
+      <file name="quito_p_arqueolog_m.css" crc="12896454" ref="phone>quito_p_arqueolog_m"/>
+      <file name="noroccidente.css" crc="3830643546" ref="phone>noroccidente"/>
+      <file name="g_hostalesquito_m.css" crc="139094780" ref="phone>g_hostalesquito_m"/>
+      <file name="comidaquito.css" crc="3830643546" ref="phone>comidaquito"/>
+      <file name="lugares.css" crc="3972492947" ref="phone>lugares"/>
+    </folder>
+    <file name="index.html" crc="4282383262" seo="true" mt="1512767020922" redirect="true"/>
+    <file name="regiones_m.html" crc="372382392" seo="true" mt="1512767020922" redirect="true"/>
+    <file name="sierra_m.html" crc="4267942416" seo="true" mt="1512767020922" redirect="true"/>
+    <file name="rutaspichincha_m.html" crc="447260694" seo="true" mt="1512767020922" redirect="true"/>
+    <file name="hospedajequito_m.html" crc="4041400057" seo="true" mt="1512767020922" redirect="true"/>
+    <file name="lugares.html" crc="4118747109" seo="true" mt="1512767020922" redirect="false"/>
+    <file name="comidaquito.html" crc="163347373" seo="true" mt="1512767020922" redirect="false"/>
+    <file name="noroccidente.html" crc="335672014" seo="true" mt="1512767020922" redirect="false"/>
+    <file name="culturapichincha_m.html" crc="357186860" seo="true" mt="1512767020922" redirect="true"/>
+    <file name="g_hostalesquito_m.html" crc="359529262" seo="true" mt="1512767020922" redirect="true"/>
+    <file name="g_hotelesquito_m.html" crc="3979179967" seo="true" mt="1512767020922" redirect="true"/>
+    <file name="quito_hotel_aaa_m.html" crc="470923842" seo="true" mt="1512767319841" redirect="true"/>
+    <file name="quito_hotel_aa_m.html" crc="24632424" seo="true" mt="1512768069606" redirect="true"/>
+    <file name="quito_p_arqueolog_m.html" crc="404305881" seo="true" mt="1512767319457" redirect="true"/>
+    <file name="quito_iglesias_m.html" crc="4160646942" seo="true" mt="1512767971744" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="190717501" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="regiones.html" crc="265545246" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="sierra.html" crc="4235107726" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="rutaspichincha.html" crc="209378273" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="noroccidente.html" crc="53043743" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="hospedajequito.html" crc="4207210752" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="comidaquito.html" crc="462726790" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="lugares.html" crc="195262021" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="g_hostalesquito.html" crc="4193799744" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="g_hotelesquito.html" crc="111005885" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="quito_p_arqueolog.html" crc="452635658" seo="true" mt="1512767319453" redirect="true"/>
+  <file name="quito_iglesias.html" crc="204343765" seo="true" mt="1512767319799" redirect="true"/>
+  <file name="culturapichincha.html" crc="108957622" seo="true" mt="1512766988745" redirect="true"/>
+  <file name="quito_hotel_aaa.html" crc="356653029" seo="true" mt="1512767319843" redirect="true"/>
+  <file name="quito_hotel_aa.html" crc="201644877" seo="true" mt="1512768226347" redirect="true"/>
+</manifest>
